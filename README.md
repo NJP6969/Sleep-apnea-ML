@@ -26,6 +26,8 @@ The dataset file `ApneaData.pkl` should be placed in the same directory as the s
 
 * Each sample is an array of length 6001
 * The first 6000 elements are features, and the last element is the label (0 or 1)
+* [Download from] https://drive.google.com/drive/folders/1sRE-iJFwQcOUNFJMUFM-17nH_xUFKoHa?usp=sharing
+* [Credits for the data] https://github.com/lakshmanmallidi/SleepApneaDetection
 
 ## How to Run
 
